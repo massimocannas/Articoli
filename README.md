@@ -5,7 +5,6 @@ This repository provides an overview of the code and supplementary materials ass
 
 
 - **On the Voigt Profile and its Dual**
-
 [Code and supplementary graphs](https://github.com/massimocannas/On-the-Voigt-profile-and-its-dual) |[Published article (DOI)](https://www.tandfonline.com/doi/abs/10.1080/03610926.2025.2580520) 
 
 
