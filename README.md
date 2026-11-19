@@ -10,5 +10,8 @@ This repository provides an overview of the code and supplementary materials ass
 
 ## Bayesian Statistics
 
+- **Propensity Score Matching with Clustered Data (2018)**
+  [Code and supplementary materials](https://github.com/massimocannas/PS-matching-with-clustered-data)  | [Published article (DOI)] ()
+
 <!-- Add further articles and their corresponding repositories here. -->
 
